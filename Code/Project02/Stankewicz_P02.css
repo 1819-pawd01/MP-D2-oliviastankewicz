@@ -1,0 +1,58 @@
+/*
+* Olivia Stankewicz
+* October 29th, 2018
+* Panda Travel Agency
+*/
+
+/* The universal selector */
+
+* {}
+
+/* Body attributes here */
+
+body {}
+
+h1 {
+    text-align: center;
+    font-family: serif;
+    color: #a3c2c2;
+}
+
+img {
+    height: 200px;
+}
+
+body {
+    background-color: #669999;
+    color: white;
+    font-family: none;
+}
+
+h3 {
+    color: #476b6b;
+    font-family: serif;
+
+}
+
+figcaption {
+    color:floralwhite
+}
+
+a:link {
+    color:white;
+}
+
+a:visited {
+    color: black;
+}
+
+
+a:hover,
+a:focus {
+    color: #3b00b3;
+    text-decoration: underline;
+}
+
+a:active {
+    color: #99ffe7;
+}

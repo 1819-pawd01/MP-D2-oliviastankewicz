@@ -1,0 +1,47 @@
+/*
+* Olivia Stankewicz 
+* Due Date
+* First Project 
+*/
+
+
+/* The universal selector */
+
+* {}
+
+/* Body attributes here */
+h1 {
+    color: whitesmoke;
+    font-family: fantasy;
+}
+
+body {
+    background-color: #00cc9c;
+    color: black;
+    font-family: sans-serif;
+}
+
+h3 {
+    color: whitesmoke;
+    font-family: fantasy;
+
+}
+
+a:link {
+    color:blue;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #8600b3;
+}
+
+a:hover,
+a:focus {
+    color: #33ffcf;
+    text-decoration: underline;
+}
+
+a:active {
+    color: #99ffe7;
+}

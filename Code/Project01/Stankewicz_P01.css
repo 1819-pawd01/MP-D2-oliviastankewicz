@@ -1,0 +1,49 @@
+/*
+* Olivia Stankewicz
+* October 16th, 2018
+* Recipe 
+*/
+
+/* The universal selector */
+
+* {}
+
+/* Body attributes here */
+
+body {}
+
+h1 {
+    color:#003066;
+    font-family:serif;
+}
+
+body {
+    background-color:#b3d7ff;
+    color: #003066;
+    font-family:none;
+}
+
+h3 {
+    color:#003066 ;
+    font-family:serif ;
+
+}
+
+a:link {
+    color:#3b00b3;
+    text-decoration: ;
+}
+
+a:visited {
+    color:white;
+}
+
+a:hover,
+a:focus {
+    color: #3b00b3;
+    text-decoration: underline;
+}
+
+a:active {
+    color: #99ffe7;
+}
